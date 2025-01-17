@@ -1,1 +1,2 @@
 # Analise de dados
+Como analista de dados, minhas análises focam em transformar dados brutos em insights estratégicos para apoiar a tomada de decisões empresariais. Utilizo ferramentas e processos de ETL (Extract, Transform, Load) para coletar, limpar e integrar dados de diversas fontes. Além disso, crio painéis interativos no Power BI para visualização e monitoramento dos dados, facilitando a análise de tendências e a identificação de padrões.
