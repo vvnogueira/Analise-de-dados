@@ -1,4 +1,4 @@
-#Portfólio de Análise de Dados — Relatórios Power BI
+## Portfólio de Análise de Dados — Relatórios Power BI
 
 Projeto de análise de dados de ponta a ponta: modelagem, tratamento e visualização de indicadores de negócio em cinco frentes — Marketing, Comercial, Recursos Humanos, Logística e Financeiro. Cada relatório foi construído a partir de dados brutos, com definição de KPIs, limpeza de base e publicação de dashboards interativos.
 
