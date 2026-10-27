@@ -28,17 +28,16 @@ Indicadores: [receita por período/vendedor] · [meta vs. realizado] · [ranking
 
 Resultado: [ex.: painel passou a mostrar diariamente o atingimento de meta, permitindo ação corretiva dentro do mês].
 
- Análise de Recursos Humanos
+# Análise de Recursos Humanos
 Relatório: 
-abrir dashboard
+
 
 Indicadores: total de funcionários · salário médio · total de funcionários por função · envolvimento no trabalho (baixo, médio, alto, ruim) · disponibilidade para hora extra · distribuição por gênero.
 
 Resultado: [ex.: mapeamento dos setores com maior índice de desengajamento, embasando ação de retenção].
 
- Análise de Logística
+# Análise de Logística
 Relatório: 
-abrir dashboard
 
 Indicadores: [OTIF / prazo de entrega] · [custo de frete] · [volume por região ou centro de distribuição] · [lead time].
 
