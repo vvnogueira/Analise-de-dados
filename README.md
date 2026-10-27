@@ -11,7 +11,7 @@ Power BI (modelagem, DAX, publicação) · Power Query (ETL e limpeza) · Excel/
 Modelagem em esquema estrela quando aplicável, medidas DAX para indicadores calculados e segmentações para análise por período, área e perfil.
 
 📁 Projetos
-Análise de Marketing
+# Análise de Marketing
 Relatório: 
 Visão Cliente / Comportamento / Pontos de Venda
 
@@ -21,9 +21,8 @@ Indicadores: total de clientes por escolaridade · total de clientes por estado 
 
 Resultado: [ex.: identificação dos segmentos de maior ticket para direcionamento de campanha] · [ex.: X% da base concentrada em N perfis, direcionando a comunicação].
 
- Análise Comercial
+# Análise Comercial
 Relatório: 
-abrir dashboard
 
 Indicadores: [receita por período/vendedor] · [meta vs. realizado] · [ranking de produtos] · [taxa de conversão].
 
@@ -45,15 +44,14 @@ Indicadores: [OTIF / prazo de entrega] · [custo de frete] · [volume por regiã
 
 Resultado: [ex.: visibilidade do atraso por rota, reduzindo prazo de entrega em X%].
 
-Dados Financeiros
+# Dados Financeiros
 Relatório: 
-abrir dashboard
 
 Indicadores: [receita vs. despesa] · [margem] · [fluxo de caixa] · [variação mês a mês].
 
 Resultado: [ex.: identificação dos centros de custo que puxavam a margem para baixo].
 
-Detecção de Anomalias
+# Detecção de Anomalias
 A análise buscou identificar transações com padrão atípico em uma base histórica de transações bancárias, tratando o problema como detecção de fraude. Foi aplicado um modelo de detecção de anomalias — o score vai de 0 a 1, e quanto mais alto, mais atípico o registro — sobre 2,53 mil transações. O modelo classificou 1,9% da base como anomalia (cerca de 50 transações) e 98,1% como normal.
 
 O resultado mais relevante é a separação clara entre os dois grupos. As transações marcadas como anômalas têm score médio de 0,65, contra 0,59 das normais, e o maior score da base chega a 0,75. O boxplot confirma que não é sobreposição: a caixa das anômalas fica bem acima da das normais, com mediana em torno de 0,675 contra 0,60. A distribuição do score mostra concentração massiva entre 0,58 e 0,61 — ou seja, a maior parte da base é homogênea, e as anomalias se destacam justamente na cauda direita da curva, onde há pouquíssimos registros.
